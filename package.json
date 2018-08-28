@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "demo api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "godson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.10",
+    "nodemon": "^1.18.3"
+  }
+}
